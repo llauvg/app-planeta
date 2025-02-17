@@ -1,6 +1,6 @@
-# myapp
+# app-planeta
 
-A new Flutter project.
+Criação de um aplicativo para móvel.
 
 ## Getting Started
 
